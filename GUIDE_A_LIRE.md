@@ -1,4 +1,4 @@
-<h1>Bienvenu sur mon GitHub !<h1/>
+<h1>Bienvenue sur mon GitHub !<h1/>
  <h3>
 Ici sera mise à disposition une bonne partie des projets réalisés lors de ma formation à Simplon.<br>
 Pour apporter un peu de contexte voici l’ordre chronologique ainsi qu’un court résumé qui parle un peu des projets :<br>
